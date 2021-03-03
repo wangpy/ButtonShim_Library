@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map ButtonShim
+#######################################
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ButtonShim		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+initialise		KEYWORD2
+setRGB			KEYWORD2
+readButtonStates	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+DEFAULT_I2C_ADDRESS	LITERAL1

@@ -1,0 +1,14 @@
+{
+  "name": "ButtonShim Library",
+  "keywords": "Arduino, Teensy, Raspberry Pi, HAT",
+  "description": "Arduino library for the Pimoroni Button SHIM.",
+  "url": "https://github.com/wangpy/ButtonShim_Library",
+  "include": "ButtonShim Library",
+  "authors":
+  [
+    {
+      "name": "Brian Ping-Yao Wang"
+    }
+  ],
+  "frameworks": "arduino"
+}
